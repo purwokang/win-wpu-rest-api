@@ -14,15 +14,15 @@
     },
     {
         "nama": "Sandhika",
-        "umur": 32,
-        "nrp": "043040023",
+        "umur": 35,
+        "nrp": "043040024",
         "hobby": [
             "coding",
             "gaming"
         ],
         "pembimbing": {
-            "pembimbing1": "Doddy Ferdiansyah",
-            "pembimbing2": "Erik Doank"
+            "pembimbing1": "Kang Purwo",
+            "pembimbing2": "Raden Mas Wid"
         }
     }
 ]
